@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/Program2.dir/link.d CMakeFiles/Program2.dir/source/server.cpp.o CMakeFiles/Program2.dir/source/main.cpp.o -o Program2
